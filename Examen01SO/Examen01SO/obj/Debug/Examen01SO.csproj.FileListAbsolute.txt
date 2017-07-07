@@ -1,0 +1,12 @@
+c:\users\mariafernanda\documents\visual studio 2013\Projects\Examen01SO\Examen01SO\bin\Debug\Examen01SO.exe.config
+c:\users\mariafernanda\documents\visual studio 2013\Projects\Examen01SO\Examen01SO\bin\Debug\Examen01SO.exe
+c:\users\mariafernanda\documents\visual studio 2013\Projects\Examen01SO\Examen01SO\bin\Debug\Examen01SO.pdb
+c:\users\mariafernanda\documents\visual studio 2013\Projects\Examen01SO\Examen01SO\obj\Debug\Examen01SO.csprojResolveAssemblyReference.cache
+c:\users\mariafernanda\documents\visual studio 2013\Projects\Examen01SO\Examen01SO\obj\Debug\Examen01SO.exe
+c:\users\mariafernanda\documents\visual studio 2013\Projects\Examen01SO\Examen01SO\obj\Debug\Examen01SO.pdb
+C:\Users\MARIAFERNANDA\Desktop\Examen01SO\Examen01SO\bin\Debug\Examen01SO.exe.config
+C:\Users\MARIAFERNANDA\Desktop\Examen01SO\Examen01SO\obj\Debug\Examen01SO.exe
+C:\Users\MARIAFERNANDA\Desktop\Examen01SO\Examen01SO\obj\Debug\Examen01SO.pdb
+C:\Users\MARIAFERNANDA\Desktop\Examen01SO\Examen01SO\bin\Debug\Examen01SO.exe
+C:\Users\MARIAFERNANDA\Desktop\Examen01SO\Examen01SO\bin\Debug\Examen01SO.pdb
+C:\Users\MARIAFERNANDA\Desktop\Examen01SO\Examen01SO\obj\Debug\Examen01SO.csprojResolveAssemblyReference.cache
